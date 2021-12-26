@@ -1,0 +1,1727 @@
+1639208953123	geckodriver	INFO	Listening on 127.0.0.1:61795
+1639208953639	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61796" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileYHYbxe"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639208954139	Marionette	INFO	Marionette enabled
+2021-12-11 09:49:14.812 firefox-bin[86467:7286166] Warning: Expected min height of view: (<NSButton: 0x137913800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:49:14.813 firefox-bin[86467:7286166] Warning: Expected min height of view: (<NSButton: 0x137910c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:49:14.813 firefox-bin[86467:7286166] Warning: Expected min height of view: (<NSButton: 0x13790cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:49:14.814 firefox-bin[86467:7286166] Warning: Expected min height of view: (<NSButton: 0x137911000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:49:14.814 firefox-bin[86467:7286166] Warning: Expected min height of view: (<NSButton: 0x137911c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:49:14.815 firefox-bin[86467:7286166] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13790dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:49:14.815 firefox-bin[86467:7286166] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x137b9bc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileYHYbxe/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:61796/devtools/browser/2da73a75-4984-4ff7-aeea-53783361c412
+1639208956220	Marionette	INFO	Listening on port 61804
+1639208956254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639209007349	Marionette	INFO	Stopped listening on port 61804
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639209009601	geckodriver::marionette	ERROR	Failed to close browser connection: Socket is not connected (os error 57)
+1639209022891	geckodriver	INFO	Listening on 127.0.0.1:62170
+1639209023407	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62171" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileXBPkNi"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639209023728	Marionette	INFO	Marionette enabled
+2021-12-11 09:50:28.992 firefox-bin[86592:7289269] Warning: Expected min height of view: (<NSButton: 0x1248d9000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:50:28.992 firefox-bin[86592:7289269] Warning: Expected min height of view: (<NSButton: 0x12f80e000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:50:28.993 firefox-bin[86592:7289269] Warning: Expected min height of view: (<NSButton: 0x12f80fc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:50:28.994 firefox-bin[86592:7289269] Warning: Expected min height of view: (<NSButton: 0x12f80c400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:50:28.994 firefox-bin[86592:7289269] Warning: Expected min height of view: (<NSButton: 0x12f80f400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:50:28.995 firefox-bin[86592:7289269] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f80f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:50:28.996 firefox-bin[86592:7289269] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12f8d2000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileXBPkNi/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:62171/devtools/browser/f03e14f2-4aa7-405a-89f1-939e3625def6
+1639209030228	Marionette	INFO	Listening on port 62180
+1639209030328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U_DPXy_vflqTjVU_YutWJm0axOJE633NQGMGFEhf2s0.js line 1 > eval line 5465 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639209307087	Marionette	INFO	Stopped listening on port 62180
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+[Parent 86592, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639209317013	geckodriver	INFO	Listening on 127.0.0.1:62982
+1639209317527	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62983" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofiler5lbrV"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639209317954	Marionette	INFO	Marionette enabled
+2021-12-11 09:55:18.516 firefox-bin[87509:7298674] Warning: Expected min height of view: (<NSButton: 0x120d09800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:55:18.516 firefox-bin[87509:7298674] Warning: Expected min height of view: (<NSButton: 0x12c17f000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:55:18.517 firefox-bin[87509:7298674] Warning: Expected min height of view: (<NSButton: 0x12c17a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:55:18.517 firefox-bin[87509:7298674] Warning: Expected min height of view: (<NSButton: 0x12c17b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:55:18.518 firefox-bin[87509:7298674] Warning: Expected min height of view: (<NSButton: 0x12c17c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:55:18.518 firefox-bin[87509:7298674] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12c17b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 09:55:18.519 firefox-bin[87509:7298674] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x11f408000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofiler5lbrV/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:62983/devtools/browser/113ad282-660a-411c-9027-b89d0b5b5697
+1639209319398	Marionette	INFO	Listening on port 62991
+1639209319495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+JavaScript error: https://ecdn.firstimpression.io/fi_client.js, line 41: TypeError: c.document.body is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U_DPXy_vflqTjVU_YutWJm0axOJE633NQGMGFEhf2s0.js line 1 > eval line 6080 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639209355024	Marionette	INFO	Stopped listening on port 62991
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639209640868	geckodriver	INFO	Listening on 127.0.0.1:63715
+1639209641387	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "63716" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileELYbyy"
+1639209641388	geckodriver::marionette	DEBUG	Waiting 60s to connect to browser on 127.0.0.1:63725
+1639209641388	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209641491	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209641593	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639209641696	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209641802	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209641884	RemoteAgent	DEBUG	CDP enabled
+1639209641884	Marionette	INFO	Marionette enabled
+1639209641906	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209641963	Marionette	TRACE	Received observer notification toplevel-window-ready
+1639209642010	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209642113	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209642218	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209642320	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209642424	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+2021-12-11 10:00:42.490 firefox-bin[87955:7308852] Warning: Expected min height of view: (<NSButton: 0x127170c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:00:42.490 firefox-bin[87955:7308852] Warning: Expected min height of view: (<NSButton: 0x131f12c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:00:42.491 firefox-bin[87955:7308852] Warning: Expected min height of view: (<NSButton: 0x131f18000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:00:42.491 firefox-bin[87955:7308852] Warning: Expected min height of view: (<NSButton: 0x131f15000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:00:42.491 firefox-bin[87955:7308852] Warning: Expected min height of view: (<NSButton: 0x109ea9800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:00:42.492 firefox-bin[87955:7308852] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131f17c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:00:42.493 firefox-bin[87955:7308852] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131fd4400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1639209642527	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209642644	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209642744	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209642847	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileELYbyy/search.json.mozlz4", (void 0)))
+1639209642950	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209643053	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209643158	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209643262	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209643367	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+1639209643471	geckodriver::marionette	TRACE	Connection refused (os error 61). Retrying in 100ms
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+1639209643500	RemoteAgent	TRACE	Received observer notification remote-startup-requested
+1639209643506	RemoteAgent	DEBUG	Setting recommended pref apz.content_response_timeout to 60000
+1639209643506	RemoteAgent	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1639209643506	RemoteAgent	DEBUG	Setting recommended pref browser.download.panel.shown to true
+1639209643506	RemoteAgent	DEBUG	Setting recommended pref browser.newtabpage.enabled to false
+1639209643507	RemoteAgent	DEBUG	Setting recommended pref browser.pagethumbnails.capturing_disabled to true
+1639209643507	RemoteAgent	DEBUG	Setting recommended pref browser.search.update to false
+1639209643507	RemoteAgent	DEBUG	Setting recommended pref browser.tabs.disableBackgroundZombification to false
+1639209643507	RemoteAgent	DEBUG	Setting recommended pref browser.tabs.unloadOnLowMemory to false
+1639209643507	RemoteAgent	DEBUG	Setting recommended pref browser.tabs.warnOnCloseOtherTabs to false
+1639209643507	RemoteAgent	DEBUG	Setting recommended pref browser.tabs.warnOnOpen to false
+1639209643507	RemoteAgent	DEBUG	Setting recommended pref browser.toolbars.bookmarks.visibility to never
+1639209643508	RemoteAgent	DEBUG	Setting recommended pref browser.usedOnWindows10.introURL to 
+1639209643508	RemoteAgent	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1639209643508	RemoteAgent	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1639209643508	RemoteAgent	DEBUG	Setting recommended pref dom.disable_open_during_load to false
+1639209643508	RemoteAgent	DEBUG	Setting recommended pref dom.file.createInChild to true
+1639209643508	RemoteAgent	DEBUG	Setting recommended pref dom.max_chrome_script_run_time to 0
+1639209643508	RemoteAgent	DEBUG	Setting recommended pref dom.max_script_run_time to 0
+1639209643509	RemoteAgent	DEBUG	Setting recommended pref dom.push.connection.enabled to false
+1639209643509	RemoteAgent	DEBUG	Setting recommended pref dom.successive_dialog_time_limit to 0
+1639209643509	RemoteAgent	DEBUG	Setting recommended pref extensions.getAddons.cache.enabled to false
+1639209643509	RemoteAgent	DEBUG	Setting recommended pref extensions.getAddons.discovery.api_url to data:, 
+1639209643509	RemoteAgent	DEBUG	Setting recommended pref network.http.prompt-temp-redirect to false
+1639209643509	RemoteAgent	DEBUG	Setting recommended pref privacy.trackingprotection.enabled to false
+1639209643509	RemoteAgent	DEBUG	Setting recommended pref security.fileuri.strict_origin_policy to false
+1639209643509	RemoteAgent	DEBUG	Setting recommended pref security.notification_enable_delay to 0
+1639209643510	RemoteAgent	DEBUG	Setting recommended pref signon.autofillForms to false
+1639209643510	RemoteAgent	DEBUG	Setting recommended pref signon.rememberSignons to false
+1639209643511	RemoteAgent	DEBUG	Setting recommended pref browser.topsites.contile.enabled to false
+1639209643511	RemoteAgent	DEBUG	Setting recommended pref browser.contentblocking.features.standard to -tp,tpPrivate,cookieBehavior0,-cm,-fp
+1639209643511	RemoteAgent	DEBUG	Setting recommended pref network.cookie.cookieBehavior to 0
+1639209643513	Marionette	TRACE	Received observer notification marionette-startup-requested
+1639209643513	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+DevTools listening on ws://localhost:63716/devtools/browser/ef1e6195-7f82-427b-aacf-71bcb0674145
+1639209643524	Marionette	TRACE	All scripts recorded.
+1639209643524	RemoteAgent	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1639209643525	Marionette	INFO	Listening on port 63725
+1639209643525	Marionette	DEBUG	Marionette is listening
+1639209643580	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:63757
+1639209643583	geckodriver::marionette	DEBUG	Connection to Marionette established on 127.0.0.1:63725.
+1639209643587	Marionette	DEBUG	0 -> [0,1,"WebDriver:NewSession",{"acceptInsecureCerts":true,"browserName":"firefox","pageLoadStrategy":"normal"}]
+1639209643589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639209643598	Marionette	DEBUG	0 <- [1,1,null,{"sessionId":"b3c042c4-5b08-45b0-b31a-9fb35d40b5cd","capabilities":{"browserName":"firefox","browserVersion":"95.0" ... ofileELYbyy","moz:shutdownTimeout":60000,"moz:useNonSpecCompliantPointerOrigin":false,"moz:webdriverClick":true,"proxy":{}}}]
+1639209643600	webdriver::server	DEBUG	<- 200 OK {"value":{"sessionId":"b3c042c4-5b08-45b0-b31a-9fb35d40b5cd","capabilities":{"acceptInsecureCerts":true,"browserName":"firefox","browserVersion":"95.0","moz:accessibilityChecks":false,"moz:buildID":"20211129150630","moz:debuggerAddress":"localhost:63716","moz:geckodriverVersion":"0.30.0","moz:headless":false,"moz:processID":87955,"moz:profile":"/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileELYbyy","moz:shutdownTimeout":60000,"moz:useNonSpecCompliantPointerOrigin":false,"moz:webdriverClick":true,"pageLoadStrategy":"normal","platformName":"mac","platformVersion":"20.6.0","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify"}}}
+1639209643604	webdriver::server	DEBUG	-> POST /session/b3c042c4-5b08-45b0-b31a-9fb35d40b5cd/url {"url": "https://www.ynet.co.il"}
+1639209643605	Marionette	DEBUG	0 -> [0,2,"WebDriver:Navigate",{"url":"https://www.ynet.co.il"}]
+1639209643609	Marionette	TRACE	[20] Received event beforeunload for about:blank
+1639209643964	Marionette	TRACE	[20] Received event pagehide for about:blank
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+1639209645366	Marionette	TRACE	[20] Received event DOMContentLoaded for https://www.ynet.co.il/home/0,7340,L-8,00.html
+1639209646611	Marionette	TRACE	[20] Received event beforeunload for https://www.ynet.co.il/home/0,7340,L-8,00.html
+1639209646618	Marionette	TRACE	Canceled page load listener because the top-browsing context has been closed
+1639209646642	Marionette	TRACE	Canceled page load listener because browsing context with id 20 has been removed
+1639209646651	Marionette	DEBUG	0 <- [1,2,{"error":"unknown error","message":"TypeError: this.curBrowser.contentBrowser is null","stacktrace":"GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:849:3\n"},null]
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:849:3
+
+1639209646685	webdriver::server	DEBUG	<- 500 Internal Server Error {"value":{"error":"unknown error","message":"TypeError: this.curBrowser.contentBrowser is null","stacktrace":"GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:849:3\n"}}
+JavaScript error: https://cdn.jifo.co/js/dist/embed_viewer-34085ddb29c2c4d38db1-1-webpack.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.jifo.co/js/dist/embed_viewer-34085ddb29c2c4d38db1-1-webpack.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.jifo.co/js/dist/embed_viewer-34085ddb29c2c4d38db1-1-webpack.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.jifo.co/js/dist/embed_viewer-34085ddb29c2c4d38db1-1-webpack.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+1639209646710	Marionette	DEBUG	Closed connection 0
+1639209651575	Marionette	TRACE	Received observer notification quit-application
+1639209651575	Marionette	INFO	Stopped listening on port 63725
+1639209651576	Marionette	DEBUG	Marionette stopped listening
+1639209651576	RemoteAgent	DEBUG	Resetting recommended pref apz.content_response_timeout
+1639209651576	RemoteAgent	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1639209651577	RemoteAgent	DEBUG	Resetting recommended pref browser.download.panel.shown
+1639209651577	RemoteAgent	DEBUG	Resetting recommended pref browser.newtabpage.enabled
+1639209651578	RemoteAgent	DEBUG	Resetting recommended pref browser.pagethumbnails.capturing_disabled
+1639209651578	RemoteAgent	DEBUG	Resetting recommended pref browser.search.update
+1639209651578	RemoteAgent	DEBUG	Resetting recommended pref browser.tabs.disableBackgroundZombification
+1639209651578	RemoteAgent	DEBUG	Resetting recommended pref browser.tabs.unloadOnLowMemory
+1639209651578	RemoteAgent	DEBUG	Resetting recommended pref browser.tabs.warnOnCloseOtherTabs
+1639209651578	RemoteAgent	DEBUG	Resetting recommended pref browser.tabs.warnOnOpen
+1639209651578	RemoteAgent	DEBUG	Resetting recommended pref browser.toolbars.bookmarks.visibility
+1639209651578	RemoteAgent	DEBUG	Resetting recommended pref browser.usedOnWindows10.introURL
+1639209651579	RemoteAgent	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1639209651580	RemoteAgent	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1639209651580	RemoteAgent	DEBUG	Resetting recommended pref dom.disable_open_during_load
+1639209651580	RemoteAgent	DEBUG	Resetting recommended pref dom.file.createInChild
+1639209651580	RemoteAgent	DEBUG	Resetting recommended pref dom.max_chrome_script_run_time
+1639209651580	RemoteAgent	DEBUG	Resetting recommended pref dom.max_script_run_time
+1639209651581	RemoteAgent	DEBUG	Resetting recommended pref dom.push.connection.enabled
+1639209651581	RemoteAgent	DEBUG	Resetting recommended pref dom.successive_dialog_time_limit
+1639209651581	RemoteAgent	DEBUG	Resetting recommended pref extensions.getAddons.cache.enabled
+1639209651581	RemoteAgent	DEBUG	Resetting recommended pref extensions.getAddons.discovery.api_url
+1639209651581	RemoteAgent	DEBUG	Resetting recommended pref network.http.prompt-temp-redirect
+1639209651581	RemoteAgent	DEBUG	Resetting recommended pref privacy.trackingprotection.enabled
+1639209651581	RemoteAgent	DEBUG	Resetting recommended pref security.fileuri.strict_origin_policy
+1639209651581	RemoteAgent	DEBUG	Resetting recommended pref security.notification_enable_delay
+1639209651581	RemoteAgent	DEBUG	Resetting recommended pref signon.autofillForms
+1639209651583	RemoteAgent	DEBUG	Resetting recommended pref signon.rememberSignons
+1639209651584	RemoteAgent	DEBUG	Resetting recommended pref browser.topsites.contile.enabled
+1639209651584	RemoteAgent	DEBUG	Resetting recommended pref browser.contentblocking.features.standard
+1639209651584	RemoteAgent	DEBUG	Resetting recommended pref network.cookie.cookieBehavior
+1639209651584	RemoteAgent	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1639209651587	RemoteAgent	TRACE	Received observer notification quit-application
+1639209651624	RemoteAgent	DEBUG	Resetting recommended pref browser.contentblocking.features.standard
+1639209651633	RemoteAgent	DEBUG	Resetting recommended pref network.cookie.cookieBehavior
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639211278045	geckodriver	INFO	Listening on 127.0.0.1:64957
+1639211278559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "64958" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofiled4AB5z"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639211278974	Marionette	INFO	Marionette enabled
+2021-12-11 10:27:59.611 firefox-bin[91640:7344568] Warning: Expected min height of view: (<NSButton: 0x12b440800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:27:59.611 firefox-bin[91640:7344568] Warning: Expected min height of view: (<NSButton: 0x12b445000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:27:59.611 firefox-bin[91640:7344568] Warning: Expected min height of view: (<NSButton: 0x12b447c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:27:59.612 firefox-bin[91640:7344568] Warning: Expected min height of view: (<NSButton: 0x12b445400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:27:59.612 firefox-bin[91640:7344568] Warning: Expected min height of view: (<NSButton: 0x12b442400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:27:59.613 firefox-bin[91640:7344568] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12b70a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:27:59.613 firefox-bin[91640:7344568] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12b716800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofiled4AB5z/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:64958/devtools/browser/672cb3aa-1c28-47bf-ad23-04f0c59bd1ba
+1639211280590	Marionette	INFO	Listening on port 64965
+1639211280643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:849:3
+
+1639211571253	geckodriver	INFO	Listening on 127.0.0.1:65194
+1639211571778	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65195" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofile9qxDBD"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639211572278	Marionette	INFO	Marionette enabled
+2021-12-11 10:32:53.165 firefox-bin[92040:7351455] Warning: Expected min height of view: (<NSButton: 0x1355c3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:32:53.165 firefox-bin[92040:7351455] Warning: Expected min height of view: (<NSButton: 0x1355c4400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:32:53.166 firefox-bin[92040:7351455] Warning: Expected min height of view: (<NSButton: 0x1355cb000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:32:53.166 firefox-bin[92040:7351455] Warning: Expected min height of view: (<NSButton: 0x1355c4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:32:53.167 firefox-bin[92040:7351455] Warning: Expected min height of view: (<NSButton: 0x10d4a2c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:32:53.167 firefox-bin[92040:7351455] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1355c6000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:32:53.167 firefox-bin[92040:7351455] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13571b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofile9qxDBD/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:65195/devtools/browser/27d6c690-b69e-4db6-90d3-df6645fe1efe
+1639211574691	Marionette	INFO	Listening on port 65202
+1639211574784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.navigateTo@chrome://remote/content/marionette/driver.js:849:3
+
+1639211581513	Marionette	INFO	Stopped listening on port 65202
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639211583549	Marionette	INFO	Stopped listening on port 64965
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639211676816	geckodriver	INFO	Listening on 127.0.0.1:65339
+1639211676828	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65340" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofile0AqULC"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639211677220	Marionette	INFO	Marionette enabled
+2021-12-11 10:34:37.978 firefox-bin[92134:7354191] Warning: Expected min height of view: (<NSButton: 0x128910000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:34:37.978 firefox-bin[92134:7354191] Warning: Expected min height of view: (<NSButton: 0x128910c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:34:37.979 firefox-bin[92134:7354191] Warning: Expected min height of view: (<NSButton: 0x128915800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:34:37.980 firefox-bin[92134:7354191] Warning: Expected min height of view: (<NSButton: 0x128911000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:34:37.981 firefox-bin[92134:7354191] Warning: Expected min height of view: (<NSButton: 0x128915c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:34:37.982 firefox-bin[92134:7354191] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x128912c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:34:37.983 firefox-bin[92134:7354191] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12895b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofile0AqULC/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:65340/devtools/browser/03d80f90-0822-4c15-ac2c-9ade3a4fd67b
+1639211679654	Marionette	INFO	Listening on port 65347
+1639211679726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+1639211687122	Marionette	INFO	Stopped listening on port 65347
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639211986948	geckodriver	INFO	Listening on 127.0.0.1:49756
+1639211987471	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49757" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileOr37Mx"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639211988069	Marionette	INFO	Marionette enabled
+2021-12-11 10:39:49.127 firefox-bin[93167:7362316] Warning: Expected min height of view: (<NSButton: 0x13819b800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:39:49.128 firefox-bin[93167:7362316] Warning: Expected min height of view: (<NSButton: 0x1381a0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:39:49.129 firefox-bin[93167:7362316] Warning: Expected min height of view: (<NSButton: 0x1381a5400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:39:49.130 firefox-bin[93167:7362316] Warning: Expected min height of view: (<NSButton: 0x1381a4c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:39:49.131 firefox-bin[93167:7362316] Warning: Expected min height of view: (<NSButton: 0x1381a3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:39:49.132 firefox-bin[93167:7362316] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1381a2c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:39:49.133 firefox-bin[93167:7362316] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1381c7800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileOr37Mx/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:49757/devtools/browser/aa62882c-795e-43ff-b8dc-fc9735841823
+1639211990853	Marionette	INFO	Listening on port 49768
+1639211990897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 1411 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639212014409	Marionette	INFO	Stopped listening on port 49768
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+[Parent 93167, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639212209290	geckodriver	INFO	Listening on 127.0.0.1:50434
+1639212209304	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50435" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileVND05G"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639212209771	Marionette	INFO	Marionette enabled
+2021-12-11 10:43:30.819 firefox-bin[93419:7367990] Warning: Expected min height of view: (<NSButton: 0x1294d9400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:43:30.820 firefox-bin[93419:7367990] Warning: Expected min height of view: (<NSButton: 0x1294d8c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:43:30.821 firefox-bin[93419:7367990] Warning: Expected min height of view: (<NSButton: 0x1294dbc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:43:30.822 firefox-bin[93419:7367990] Warning: Expected min height of view: (<NSButton: 0x1294dc000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:43:30.823 firefox-bin[93419:7367990] Warning: Expected min height of view: (<NSButton: 0x1294d8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:43:30.824 firefox-bin[93419:7367990] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1294dd800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:43:30.825 firefox-bin[93419:7367990] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x129638800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileVND05G/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:50435/devtools/browser/1cb6d834-3b27-4c61-9228-ea3af44cf5a5
+1639212212556	Marionette	INFO	Listening on port 50442
+1639212212626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 436 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1639212282805	Marionette	INFO	Stopped listening on port 50442
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileVND05G/protections.sqlite
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639212305533	geckodriver	INFO	Listening on 127.0.0.1:51119
+1639212305543	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51120" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofilefv7Ovu"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639212305982	Marionette	INFO	Marionette enabled
+2021-12-11 10:45:06.729 firefox-bin[93593:7371053] Warning: Expected min height of view: (<NSButton: 0x129461c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:45:06.730 firefox-bin[93593:7371053] Warning: Expected min height of view: (<NSButton: 0x129467400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:45:06.731 firefox-bin[93593:7371053] Warning: Expected min height of view: (<NSButton: 0x129467800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:45:06.732 firefox-bin[93593:7371053] Warning: Expected min height of view: (<NSButton: 0x129469400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:45:06.733 firefox-bin[93593:7371053] Warning: Expected min height of view: (<NSButton: 0x129462400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:45:06.733 firefox-bin[93593:7371053] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x129465000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:45:06.734 firefox-bin[93593:7371053] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x129685c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofilefv7Ovu/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:51120/devtools/browser/e1446de8-0e75-43a3-a647-cbdfe9568391
+1639212308161	Marionette	INFO	Listening on port 51127
+1639212308219	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+JavaScript error: https://ecdn.firstimpression.io/fi_client.js, line 41: TypeError: c.document.body is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 1845 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1639212751376	geckodriver	INFO	Listening on 127.0.0.1:51966
+1639212751898	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "51967" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileMKAmEo"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639212752512	Marionette	INFO	Marionette enabled
+2021-12-11 10:52:33.447 firefox-bin[95058:7386653] Warning: Expected min height of view: (<NSButton: 0x133b15c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:52:33.448 firefox-bin[95058:7386653] Warning: Expected min height of view: (<NSButton: 0x133b12c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:52:33.449 firefox-bin[95058:7386653] Warning: Expected min height of view: (<NSButton: 0x133b16000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:52:33.450 firefox-bin[95058:7386653] Warning: Expected min height of view: (<NSButton: 0x133b15000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:52:33.451 firefox-bin[95058:7386653] Warning: Expected min height of view: (<NSButton: 0x133b17400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:52:33.451 firefox-bin[95058:7386653] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133b13c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 10:52:33.452 firefox-bin[95058:7386653] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x133b45400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileMKAmEo/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:51967/devtools/browser/394f41de-09f8-4e9f-99b5-51f6caee72f4
+1639212754876	Marionette	INFO	Listening on port 51979
+1639212754907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+JavaScript error: https://ecdn.firstimpression.io/fi_client.js, line 41: TypeError: c.document.body is null
+[Child 95084, MediaDecoderStateMachine #1] WARNING: 1271a7000 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 5186 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 6670 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://ads.pubmatic.com/AdServer/js/user_sync.html?gdpr=0&p=156307&userIdMacro=PM_UID&us_privacy=1---&predirect=https%3A%2F%2Fsync.taboola.com%2Fsg%2Frtb-pubmatic-network%2F1%2Frtb-h%2F%3Fgdpr%3D0%26taboola_hm%3DPM_UID%26orig%3Dvideo%26us_privacy%3D1---, line 1: ReferenceError: CommonMeta is not defined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1639213473784	Marionette	INFO	Stopped listening on port 51127
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1639213477942	Marionette	INFO	Stopped listening on port 51979
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1059: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileMKAmEo/protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 95058, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1639213480183	geckodriver	INFO	Listening on 127.0.0.1:53157
+1639213480704	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53158" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileO2iTI5"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639213481259	Marionette	INFO	Marionette enabled
+2021-12-11 11:04:42.203 firefox-bin[96368:7403297] Warning: Expected min height of view: (<NSButton: 0x130c54000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:04:42.204 firefox-bin[96368:7403297] Warning: Expected min height of view: (<NSButton: 0x130c60c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:04:42.205 firefox-bin[96368:7403297] Warning: Expected min height of view: (<NSButton: 0x130c59400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:04:42.206 firefox-bin[96368:7403297] Warning: Expected min height of view: (<NSButton: 0x130c60000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:04:42.207 firefox-bin[96368:7403297] Warning: Expected min height of view: (<NSButton: 0x130c5b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:04:42.208 firefox-bin[96368:7403297] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130c59c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:04:42.209 firefox-bin[96368:7403297] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130e10800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileO2iTI5/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:53158/devtools/browser/7d1ff69c-052c-4a45-af26-88ebbc1c430c
+1639213483460	Marionette	INFO	Listening on port 53169
+1639213483495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+JavaScript error: https://ecdn.firstimpression.io/fi_client.js, line 41: TypeError: c.document.body is null
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/EnZy1JEvhtfL3qsMHM2VNqoz8zWnsWCdOjk5wdd4Ig4.js line 1 > eval line 4422 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 96388, MediaDecoderStateMachine #1] WARNING: 11c8b1300 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1639213531035	geckodriver	INFO	Listening on 127.0.0.1:53806
+1639213531055	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53807" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofilef9Foma"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639213531671	Marionette	INFO	Marionette enabled
+2021-12-11 11:05:32.681 firefox-bin[96463:7405275] Warning: Expected min height of view: (<NSButton: 0x12e757000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:05:32.682 firefox-bin[96463:7405275] Warning: Expected min height of view: (<NSButton: 0x12ea8cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:05:32.683 firefox-bin[96463:7405275] Warning: Expected min height of view: (<NSButton: 0x12ea8d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:05:32.684 firefox-bin[96463:7405275] Warning: Expected min height of view: (<NSButton: 0x12ea8dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:05:32.685 firefox-bin[96463:7405275] Warning: Expected min height of view: (<NSButton: 0x12ea86800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:05:32.686 firefox-bin[96463:7405275] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12ea89000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 11:05:32.687 firefox-bin[96463:7405275] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12ea90800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofilef9Foma/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:53807/devtools/browser/53289281-9dc5-401b-9eff-47ac4d5f8d8e
+1639213534507	Marionette	INFO	Listening on port 53814
+1639213534605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639213535086	Marionette	INFO	Stopped listening on port 53169
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39014B,name=PContent::Reply_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390078,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+JavaScript error: https://player.ynet.co.il/fp727/flowplayer.ads.114.ynet.js, line 2: ReferenceError: flowplayer is not defined
+1639213544937	Marionette	INFO	Stopped listening on port 53814
+JavaScript error: https://middycdn-a.akamaihd.net/bootstrap/bootstrap.js, line 1: TypeError: r is null
+JavaScript error: https://middycdn-a.akamaihd.net/bootstrap/bootstrap.js, line 1: TypeError: r is null
+[Parent 96463, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639244034786	geckodriver	INFO	Listening on 127.0.0.1:49254
+1639244035154	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "safe-mode" "--remote-debugging-port" "49255" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileco6BpQ"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639244035715	Marionette	INFO	Marionette enabled
+2021-12-11 19:33:56.530 firefox-bin[32853:7750328] Warning: Expected min height of view: (<NSButton: 0x121c5a000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:33:56.530 firefox-bin[32853:7750328] Warning: Expected min height of view: (<NSButton: 0x12dac4800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:33:56.531 firefox-bin[32853:7750328] Warning: Expected min height of view: (<NSButton: 0x12daca000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:33:56.532 firefox-bin[32853:7750328] Warning: Expected min height of view: (<NSButton: 0x12daca400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:33:56.532 firefox-bin[32853:7750328] Warning: Expected min height of view: (<NSButton: 0x12dac8800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:33:56.533 firefox-bin[32853:7750328] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12dac4c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:33:56.533 firefox-bin[32853:7750328] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x123b4dc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileco6BpQ/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:49255/devtools/browser/b6b1a7d4-8541-4a85-b3f0-5c71a0c9f8dd
+1639244038066	Marionette	INFO	Listening on port 49265
+1639244038174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639244099365	Marionette	INFO	Stopped listening on port 49265
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639244147624	geckodriver	INFO	Listening on 127.0.0.1:49466
+1639244148143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "safe-mode" "--remote-debugging-port" "49467" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofilehIeF3U"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639244148583	Marionette	INFO	Marionette enabled
+2021-12-11 19:35:52.509 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSButton: 0x125a85400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:35:52.510 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSButton: 0x1321c2400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:35:52.511 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSButton: 0x1321c6000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:35:52.512 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSButton: 0x1321c7000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:35:52.512 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSButton: 0x1321c2800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:35:52.513 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1321c6800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:35:52.513 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1322c8000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofilehIeF3U/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:49467/devtools/browser/b3210ac8-c743-4a56-9b27-571bc34e778f
+1639244153618	Marionette	INFO	Listening on port 49474
+1639244153734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1639244442554	geckodriver	INFO	Listening on 127.0.0.1:49978
+1639244443082	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--safe-mode" "--remote-debugging-port" "49979" "-foreground" "-no-remote" "-profile" "/var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileXHaAEA"
+JavaScript error: CA_vmware.cfg, line 7: ReferenceError: Components is not defined
+1639244443704	Marionette	INFO	Marionette enabled
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 1335: uncaught exception: undefined
+2021-12-11 19:40:45.292 firefox-bin[33916:7762333] Warning: Expected min height of view: (<NSButton: 0x130c81400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:40:45.293 firefox-bin[33916:7762333] Warning: Expected min height of view: (<NSButton: 0x130c80400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:40:45.294 firefox-bin[33916:7762333] Warning: Expected min height of view: (<NSButton: 0x130c81000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:40:45.295 firefox-bin[33916:7762333] Warning: Expected min height of view: (<NSButton: 0x130c81800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:40:45.295 firefox-bin[33916:7762333] Warning: Expected min height of view: (<NSButton: 0x130c8a800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:40:45.296 firefox-bin[33916:7762333] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130c84800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:40:45.297 firefox-bin[33916:7762333] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x130cbec00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/f0/8rcxqdt12b59w6_bvc9625380000gp/T/rust_mozprofileXHaAEA/search.json.mozlz4", (void 0)))
+console.error: BackgroundUpdate: 
+  _reasonsToNotScheduleUpdates: Failed to check for Maintenance Service Registry Key: [Exception... "Component returned failure code: 0x80004001 (NS_ERROR_NOT_IMPLEMENTED) [nsIUpdateProcessor.getServiceRegKeyExists]"  nsresult: "0x80004001 (NS_ERROR_NOT_IMPLEMENTED)"  location: "JS frame :: resource://gre/modules/BackgroundUpdate.jsm :: _reasonsToNotScheduleUpdates :: line 243"  data: no]
+DevTools listening on ws://localhost:49979/devtools/browser/6aecd17e-384c-4504-bd8c-c9287919d733
+1639244446133	Marionette	INFO	Listening on port 49987
+1639244446200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+2021-12-11 19:41:47.831 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSButton: 0x1322d0400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:41:47.831 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSButton: 0x13248ac00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:41:47.832 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSButton: 0x13248b000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:41:47.833 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSButton: 0x13248b400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:41:47.834 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSButton: 0x13248c000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:41:47.834 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13248d800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-12-11 19:41:47.835 firefox-bin[32977:7754177] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1325df800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+1639244509577	Marionette	INFO	Stopped listening on port 49474
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1639244511335	Marionette	INFO	Stopped listening on port 49987
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
